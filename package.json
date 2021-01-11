@@ -1,8 +1,8 @@
 {
-  "name": "leaflet.heat",
-  "version": "0.2.0",
+  "name": "@ozangokhanhergul/leaflet.heat",
+  "version": "0.3.0",
   "description": "A tiny and fast Leaflet heatmap plugin.",
-  "homepage": "https://github.com/Leaflet/Leaflet.heat",
+  "homepage": "https://github.com/ozangokhanhergul/Leaflet.heat",
   "keywords": [
     "heatmap",
     "canvas",
@@ -11,10 +11,10 @@
     "leaflet",
     "plugin"
   ],
-  "author": "Vladimir Agafonkin",
+  "author": "Ozan Gökhan Hergül",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Leaflet/Leaflet.heat.git"
+    "url": "git+https://github.com/ozangokhanhergul/Leaflet.heat.git"
   },
   "main": "dist/leaflet-heat.js",
   "devDependencies": {
@@ -50,5 +50,9 @@
     "undef": true,
     "unused": true,
     "browser": true
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/ozangokhanhergul/Leaflet.heat/issues"
+  },
+  "dependencies": {}
 }
